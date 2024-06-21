@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edaraavinash" alt="edaraavinash" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/avinashsashank" target="blank"><img src="https://img.shields.io/twitter/follow/avinashsashank?logo=twitter&style=for-the-badge" alt="avinashsashank" /></a> </p>
-
 - 🔭 I’m currently working on **Parkinson disease prediction**
 
 - 🌱 I’m currently learning **Data structures,Algorithms**
