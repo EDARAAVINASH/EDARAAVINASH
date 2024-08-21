@@ -1,4 +1,4 @@
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edaraavinash&label=Profile%20views&color=0e75b6&style=flat" alt="edaraavinash" /> </p>
 
@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Parkinson disease prediction**
 
-- 🌱 I’m currently learning **Data structures,Algorithms**
+- 🌱 I’m currently learning **Data structures and Algorithms,Spring**
 
 - 💬 Ask me about **Java,sql,jdbc,data structures**
 
